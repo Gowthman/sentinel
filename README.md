@@ -8,7 +8,7 @@ Sentinel continuously monitors per-process CPU, memory, disk I/O, network, threa
 
 > Built for **C-DAC Hackathon 2026**, Problem Statement 17 — *Embedded Linux Process Watchdog Dashboard* — by **Team CRAZY TECHIES**.
 
-![Sentinel Architecture]("/docs/architecture.png")
+![Sentinel Architecture]("docs/architecture.png")
 
 ---
 
